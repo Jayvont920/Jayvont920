@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jayvon, an <a href="https://linkedin.com//in/jayvon-taylor-073835358/>IT Professional</a>☺</h1>
+<h1>Hello, I'm Jayvon, an <a href="https://linkedin.com//in/jayvon-taylor-073835358/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
